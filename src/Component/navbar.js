@@ -88,7 +88,7 @@ class navbar extends Component {
                                                     <Link class="nav-link" to="/">Home</Link>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <Link class="nav-link" to="/myproduct">My product</Link>
+                                                    <Link class="nav-link" to="/myproduct">Mon produit</Link>
                                                 </li>
                                                 <li class="nav-item">
                                                     <Link class="nav-link" to="/paniers">Panier</Link>
